@@ -6,9 +6,9 @@ Windows용 Path of Exile 2 아이템 인식·시세 오버레이 앱의 **실행
 
 [최신 버전 다운로드](https://github.com/ayds0328/Poe2_Sino_Releases/releases/latest)
 
-Releases에서 `POE2OCR.exe`를 받아 쓰기 가능한 폴더에 넣고 실행하세요. Windows x64, Windows 10 2004 이상 또는 Windows 11과 Windows 한국어 OCR 언어가 필요합니다. .NET 런타임은 EXE에 포함돼 있습니다.
+Releases에서 `POE2_Sino.exe`를 받아 쓰기 가능한 폴더에 넣고 실행하세요. Windows x64, Windows 10 2004 이상 또는 Windows 11과 Windows 한국어 OCR 언어가 필요합니다. .NET 런타임은 EXE에 포함돼 있습니다.
 
-앱을 실행할 때 새 버전을 한 번 확인합니다. 새 버전 안내에서 업데이트에 동의하면 다운로드 후 재시작합니다. 설정과 필터 목록은 유지됩니다.
+앱을 실행할 때 새 버전을 한 번 확인하고, 새 버전이 있으면 자동 다운로드 후 재시작합니다. 설정과 필터 목록은 유지됩니다.
 
 이 저장소에는 앱 소스 코드를 공개하지 않습니다. 릴리즈에 표시되는 Source code ZIP/TAR에는 이 공개 저장소의 안내 문서만 들어 있습니다.
 
